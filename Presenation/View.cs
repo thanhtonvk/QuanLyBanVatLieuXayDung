@@ -13,10 +13,10 @@ namespace QuanLyBanVatLieuXayDung.Presenation
         private static void Menu()
         {
             Console.WriteLine("                                  ══════════════════════════════════════════════════");
-            Console.WriteLine("                                 ║           QUẢN LÝ CỬA HÀNG VẬT LIỆU               ║");
+            Console.WriteLine("                                 ║           QUẢN LÝ CỬA HÀNG VẬT LIỆU              ║");
             Console.WriteLine("                                 ║══════════════════════════════════════════════════║");
             Console.WriteLine("                                 ║1. QUẢN LÝ KHO                                    ║");
-            Console.WriteLine("                                 ║2. QUẢN LÝ VẬT LIỆU                                ║");
+            Console.WriteLine("                                 ║2. QUẢN LÝ VẬT LIỆU                               ║");
             Console.WriteLine("                                 ║3. QUẢN LÝ NHÂN VIÊN                              ║");
             Console.WriteLine("                                 ║4. QUẢN LÝ HÓA ĐƠN NHẬP                           ║");
             Console.WriteLine("                                 ║5. QUẢN LÝ HÓA ĐƠN XUẤT                           ║");
